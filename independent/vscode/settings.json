@@ -1,0 +1,14 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": true,
+    "window.zoomLevel": 1,
+    "workbench.startupEditor": "newUntitledFile",
+    "files.associations": {
+        "*.csv": "csv (semicolon)"
+    },
+    "terminal.explorerKind": "external",
+    "editor.formatOnSave": true
+}
