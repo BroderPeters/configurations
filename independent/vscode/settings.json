@@ -10,5 +10,19 @@
         "*.csv": "csv (semicolon)"
     },
     "terminal.explorerKind": "external",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "spellchecker.documentTypes": [
+        "md",
+        "txt"
+    ],
+    "spellright.language": [
+        "English (American)",
+        "German_de_DE"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "window.titleBarStyle": "custom"
 }
